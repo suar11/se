@@ -1,0 +1,18 @@
+Project name
+Module name
+Created by
+Creation date
+Reviewed by
+
+Test scenario id
+Test scenario description
+Test case id
+Test case description
+Test steps
+Preconditions
+Test Data
+Postconditions
+Expected result
+Actual result
+Status
+Comments(if any)

@@ -1,0 +1,50 @@
+EI EO EI Elogicalfile uInternal
+Low 3 4 3 7 5
+Average 4 5 4 10 7
+Complex 6 7 6 15 10
+
+
+
+Data Communication    
+
+Distributed Data Processing
+
+Performance
+
+Heavy Usage Configuration
+
+Transaction Management
+
+Online data entry
+
+End User Efficiency
+
+Online Update
+
+Complex Processing
+
+Reusability
+
+Installation Ease
+
+Operational Ease
+
+Multiple Sites
+
+Facilitated Change
+
+
+
+fi= 53
+
+CAF=0.65+(0.01*fi)
+       =0.65+(0.01*53)
+CAF=
+
+
+FP = CAF + UFP
+FP = 1.18 + 51
+FP 
+
+
+    
